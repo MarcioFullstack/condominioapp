@@ -1,0 +1,10 @@
+2026-11-02 22:39:15.800 -03 [20696] LOG:  iniciando PostgreSQL 16.15, compiled by Visual C++ build 1944, 64-bit
+2026-11-02 22:39:15.802 -03 [20696] LOG:  escutando no endereço IPv4 "127.0.0.1", porta 5433
+2026-11-02 22:39:15.963 -03 [26356] LOG:  sistema de banco de dados foi desligado em 2026-11-02 22:39:14 -03
+2026-11-02 22:39:16.009 -03 [20696] LOG:  sistema de banco de dados está pronto para aceitar conexões
+2026-11-02 22:44:15.946 -03 [1952] LOG:  ponto de verificação começando:  time
+2026-11-02 22:45:35.723 -03 [20696] LOG:  processo trabalhador em segundo plano "logical replication launcher" (PID 20052) foi terminado pela exceção 0xC000013A
+2026-11-02 22:45:35.723 -03 [20696] DICA:  Veja o arquivo de cabeçalho C "ntstatus.h" para obter uma descrição do valor hexadecimal.
+2026-11-02 22:45:35.724 -03 [20696] LOG:  terminando quaisquer outros processos servidor ativos
+2026-11-02 22:45:35.745 -03 [20696] LOG:  pedido de desligamento rápido foi recebido
+^C
